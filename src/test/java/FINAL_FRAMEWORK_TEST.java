@@ -25,7 +25,7 @@ public class FINAL_FRAMEWORK_TEST {
     {
         requestSpecification = given().
                 baseUri("https://api.postman.com").
-                header("X-Api-Key", "PMAK-623310aeb3148544e5c50cfb-81ebf9db0aa47d51ca5146639a76e27cf3");
+                header("X-Api-Key", "PMAK-**************************");
     }
     //1. FETCH THE DATA BY BDD FORMAt
     @Test
